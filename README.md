@@ -32,9 +32,3 @@ Programa que percorre o vetor e conta quantos números positivos existem.
 - JavaScript
 - Visual Studio Code
 - GitHub
-
-## Como executar
-
-Abra o terminal na pasta do projeto e execute:
-
-```bash
